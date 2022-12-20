@@ -1,2 +1,3 @@
 # Multiplication-game
-A simple game, to guess the result of the multiplication between two numbers 
+A game that generates two numbers, and the game's objective is to guess the result of the multiplication
+between these two numbers.
